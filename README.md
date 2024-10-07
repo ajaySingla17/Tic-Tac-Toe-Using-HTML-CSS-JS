@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Using-HTML-CSS-JS
+Tic-Tac-Toe Game using Html, Css, Javascript
